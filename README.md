@@ -1,9 +1,12 @@
 # BLMS_OSV
-별무리학교 학습 관리 시스템(BLMS)의 오픈 소스 버전입니다. 
+별무리학교 학습 관리 시스템(BLMS)의 오픈 소스 버전입니다.
 
 개발 언어 : HTML,CSS,JS,PHP,MYSQL<br>
 서버 환경 : UTF-8 (PHP5.5, MySQL5.x)<br>
-참고 자료 : 생활코딩(https://opentutorials.org), w3schools(https://www.w3schools.com/)<br>
+참고 자료 : <br>
+생활코딩(https://opentutorials.org)<br>
+w3schools(https://www.w3schools.com/)<br>
+Google Sign-In for Websites(https://developers.google.com/identity/sign-in/web/sign-in)<br>
 
 The MIT License
 
