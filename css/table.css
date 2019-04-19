@@ -1,0 +1,25 @@
+.course_table{
+  width: 25%;
+
+}
+.timetable_table{
+  width: 14%;
+
+}
+.studyplan_table{
+  width: 16%;
+
+}
+
+table, th, td{
+  border:1px solid #ddd;
+  text-align: center;
+  vertical-align: center;
+}
+
+select {
+    width: 100%;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 2px;
+    backg
