@@ -1,4 +1,4 @@
-# BLMS_OSV
+# BLMS
 별무리학교 학습 관리 시스템(BLMS)의 오픈 소스 버전입니다.
 
 개발 언어 : HTML,CSS,JS,PHP,MYSQL<br>
